@@ -1,3 +1,8 @@
+'''
+Created on Nov 29, 2014
+
+@author: Colin
+'''
 def binarySearch(arr,goal):
 	low = 0
 	high = len(arr) - 1
